@@ -1,0 +1,7 @@
+# IDE Specific configuration
+.idea/
+
+# Workspace Specific Directories
+bin/
+pkg/
+vendor/
